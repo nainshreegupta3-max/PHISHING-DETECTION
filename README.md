@@ -1,4 +1,5 @@
 🔐 # PHISHING DETECTION SYSTEM (MACHINE LEARNING)
+
 📌 Project Overview
 
 Phishing attacks are one of the most common cybersecurity threats today.
@@ -17,7 +18,9 @@ Compare model performance and accuracy
 Build an end-to-end ML pipeline (data → model → prediction)
 
 📂 Project Structure
+
 Phishing_Detection/
+
 │
 
 ├── phishing.csv                  # Dataset used for training/testing
